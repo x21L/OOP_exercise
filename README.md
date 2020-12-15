@@ -17,13 +17,4 @@ What things should the program at least be able to do?
 
 > Of course you can add more features and adapt to your interests. Maybe you have some hobby or leisure activity for which you can write a small utility class.
 
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("HelloWorld");
-        System.out.println("Hello Sublime!");
-    }
-}
-```
-
 The formula for velocity and some prime number examples are in the PDF file.
